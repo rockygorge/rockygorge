@@ -11,6 +11,10 @@ A three-tier web application with a Python API and PostgreSQL, Kubernetes manife
 
 [Explore the code and demo walkthrough](https://github.com/rockygorge/RockyProject/tree/main/three-tier-platform) · [Verification status](https://github.com/rockygorge/RockyProject/blob/main/three-tier-platform/docs/verification.md)
 
+## Delivery readiness prototype
+
+[Azure Delivery Review](https://github.com/rockygorge/azure-delivery-review) is an AI-assisted Python prototype that reviews declared release controls. It uses fictional inputs and does not verify actual cloud or GitHub settings.
+
 ## Earlier lab
 
 ### Azure platform delivery lab
